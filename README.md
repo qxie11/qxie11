@@ -3,7 +3,7 @@
 
 ### Frontend
 * HTML5 & CSS3
-* CSS/SASS
+* SASS
 * Javascript (ES6+)
 * ReactJS/Redux
 * React Router
