@@ -6,6 +6,7 @@
 * SASS
 * Javascript (ES6+)
 * ReactJS/Redux
+* Redux Toolkit
 * React Router
 * Typescript
 * Next JS
