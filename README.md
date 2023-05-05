@@ -9,6 +9,7 @@
 * Redux Toolkit
 * React Router
 * Typescript
+* Tailwind
 * Next JS
 * Firebase
 * Git
